@@ -6,3 +6,4 @@ links: https://github.com/Purple-CSGO
 contributions: translation, doc, code
 l10n_id: HcOuH1h3zFplSUDY-J_FCUkPNE4
 ---
+Technical Support, Discord Moderator.
