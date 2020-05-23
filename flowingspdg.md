@@ -1,7 +1,7 @@
 ---
 name: Shugo 'FlowingSPDG' Kawamura
 date_from: 2019-05-27
-date_to: 2020-03-04
+date_to: 2020-05-18
 links: https://github.com/FlowingSPDG
 contributions: code, translation
 l10n_id: JRxiA9ScN7ABuTH7wkeHG8YJXoo
