@@ -2,6 +2,6 @@
 name: Denis 'ChetdeJong' Karkin
 links: https://github.com/ChetdeJong
 date_from: 2024-05-08
-date_to: 2024-06-26
+date_to: 2024-08-03
 contributions: code
 ---
