@@ -1,7 +1,8 @@
 ---
 name: Denis 'ChetdeJong' Karkin
+member: true
+weight: -1
 links: https://github.com/ChetdeJong
 date_from: 2024-05-08
-date_to: 2025-07-31
 contributions: code, test, doc
 ---
