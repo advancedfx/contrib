@@ -6,4 +6,4 @@ links: https://github.com/dtugend, https://youtube.com/advancedfx
 contributions: projectManagement, code, doc, content, maintenance, review, question, bug, translation
 l10n_id: JKaYLzbBifx-uBjHiw8CaL4ymEs
 ---
-Lead programmer.
+Former lead programmer (2007 - 2025).

@@ -6,4 +6,4 @@ date_to: 2009-12-31
 links: http://www.madabouthats.org/
 contributions: projectManagement, code, infra
 ---
-Creator, former lead programmer, hosting.
+Creator, former lead programmer (2004 - 2007), hosting.
