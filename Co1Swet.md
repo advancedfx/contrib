@@ -5,4 +5,3 @@ date_to: 2026-06-11
 links: https://github.com/Co1Swet
 contributions: code
 ---
-Former lead programmer (2007 - 2025).
